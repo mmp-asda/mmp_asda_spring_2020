@@ -22,9 +22,15 @@
 | ----------- | ----------- | ----------- | ----------- |
 | 1      | 7 февраля 2020 г.       |Введение: распределения, статистики, оценки, гипотезы | [Семинар 1](https://github.com/mmp-asda/mmp_asda_spring_2020/tree/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%201)|
 | 2   | 14 февраля 2020 г.        |Основные распределения, статистики и гипотезы|[Семинар 2](https://github.com/mmp-asda/mmp_asda_spring_2020/tree/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%202)|
+| 3   | 21 февраля 2020 г.        |Бутстреп|[Семинар 3](https://github.com/mmp-asda/mmp_asda_spring_2020/tree/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%203)|
+| 4   | 28 февраля 2020 г.        |Доверительные интервалы бутстреп статистик|[Семинар 4](https://github.com/mmp-asda/mmp_asda_spring_2020/tree/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%204)|
+| 5   | 6 марта 2020 г.        |Непараметрические гипотезы|[Семинар 5](https://github.com/mmp-asda/mmp_asda_spring_2020/tree/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%205)|
+| 6   | 13 марта 2020 г.        |Одновыборочные непараметрические критерии|[Семинар 6](https://github.com/mmp-asda/mmp_asda_spring_2020/tree/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%206)|
 
 # Домашние работы.
 
 | № п/п      | Дата сдачи | Материалы |
 | ----------- | ----------- | ----------- |
 | 1      | 1 марта 2020 г.       | [Работа 1](https://github.com/mmp-asda/mmp_asda_spring_2020/tree/master/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201)|
+| 1      | 15 марта 2020 г.       | [Работа 2](https://github.com/mmp-asda/mmp_asda_spring_2020/tree/master/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%202)|
+| 1      | 29 марта 2020 г.       | [Работа 3](https://github.com/mmp-asda/mmp_asda_spring_2020/tree/master/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203)|
